@@ -160,12 +160,7 @@ db.serialize(function() {
         "UPDATED_TS         TEXT)";
 
     db.run(dcpmDetails);
-
-
-
-
-
-
+    
 
 });
 db.close();
